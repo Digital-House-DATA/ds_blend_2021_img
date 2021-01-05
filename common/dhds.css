@@ -1,0 +1,108 @@
+<style>
+
+.div-primero-no-funciona {
+	background-color: #865354;
+}
+
+.div-dhds-fondo-1 {
+	background-color: #865354;
+	color: white;	
+	text-align: center;
+	height: 500px;
+	width: 100%;
+	line-height: 500px;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.div-4 {
+	background-color: #865354;
+}
+
+.div-1 {
+	background-color: #EBEBEB;
+}
+
+.div-2 {
+	background-color: #ABBAEA;
+}
+
+.div-3 {
+	background-color: #FBD603;
+}
+
+.div-logo {
+	text-align: center;	
+	line-height: 150px;
+	padding-top: 50px;	
+}
+
+.div-curso {
+	font-weight: bold;
+	font-size: 120%;
+	padding-left: 40px;
+	line-height: 80px;	
+}
+
+.div-modulo {
+	font-size: 100%;
+	padding-left: 40px;	
+	line-height: 70px;			
+}
+
+.div-contenido {	
+	padding-left: 40px;		
+	padding-top: 10px;		
+}
+
+
+.Table {
+	display: table;
+}
+
+.Title {
+	display: table-caption;
+	text-align: center;
+	font-weight: bold;
+	font-size: larger;
+}
+
+.Heading {
+
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Row {
+	display: table-row;
+	height: 500px;
+}
+
+.Cell {	
+	display: table-cell;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.Cell.grey {
+	background-color: lightgrey;
+}
+
+.Cell.left {
+	width: 66%;
+	text-align: center;	
+	line-height: 500px;	
+}
+
+.Cell.right {
+	text-align: left;	
+	padding-left: 0px;	
+	vertical-align: top;	
+}
+
+
+
+</style>
+
+
